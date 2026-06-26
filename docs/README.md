@@ -1,5 +1,8 @@
 # Contents Director
 
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1587715?style=flat-square&logo=curseforge&logoColor=white&label=CurseForge)](https://www.curseforge.com/minecraft/mc-mods/contents-director)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/contents-director?style=flat-square&logo=modrinth&logoColor=white&label=Modrinth)](https://modrinth.com/mod/contents-director)
+
 Runtime mod and file installer for Minecraft modpacks.
 
 Contents Director downloads and installs mods/files that cannot be bundled with a modpack
